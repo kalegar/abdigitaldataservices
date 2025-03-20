@@ -1,6 +1,7 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>About Us</h1>
+    <p>AB Digital Data Services Ltd provides software development and data visualization services to our clients.</p>
   </div>
 </template>
 
@@ -9,7 +10,9 @@
   .about {
     min-height: 100vh;
     display: flex;
+    flex-direction: column;
     align-items: center;
+    margin-top: 4rem;
   }
 }
 </style>

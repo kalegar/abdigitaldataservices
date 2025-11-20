@@ -23,6 +23,7 @@ git clone https://github.com/kalegar/abdigitaldataservices.git
 ```
 - Afterwards, run the following command in git bash
 ```sh
+cd ./abdigitaldataservices
 npm install
 ```
 

@@ -2,14 +2,6 @@
 
 AB Digital Data Services Website Setup
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
 ## Project Setup
 
 - Ensure git is installed. [Git for Windows](https://git-scm.com/install/windows)
@@ -40,6 +32,8 @@ npm run dev
 You should see something like this:
 # ![npm run dev output screenshot](dev_screenshot.png)
 
+Once it's running, go to the URL displayed in your browser.
+The site will automatically update as you make changes to files.
 ### Compile and Minify for Production
 When ready to build for production:
 ```sh

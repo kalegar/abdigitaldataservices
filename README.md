@@ -30,7 +30,7 @@ To run the site locally while developing, run:
 npm run dev
 ```
 You should see something like this:
-# ![npm run dev output screenshot](dev_screenshot.png)
+# ![npm run dev output screenshot](abdigitaldataservices/dev_screenshot.png)
 
 Once it's running, go to the URL displayed in your browser.
 The site will automatically update as you make changes to files.

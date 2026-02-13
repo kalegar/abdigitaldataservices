@@ -6,7 +6,8 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <v-app>
     <v-app-bar>
-      <v-app-bar-title>AB Digital Data Services</v-app-bar-title>
+      <img src="./assets/logo.png" width="48" class="ml-2"/>
+      <v-app-bar-title class="ml-2">AB Digital Data Services</v-app-bar-title>
     </v-app-bar>
 
     <v-bottom-navigation>

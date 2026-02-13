@@ -10,7 +10,7 @@
       <v-spacer></v-spacer>
       Please see our <a>About</a> page for information on our services.
       <v-spacer></v-spacer>
-      To request services or for business inquiries please email <a href="mailto:andrew.smith@abdigitaldataservices.ca">andrew.smith@abdigitaldataservices.ca</a>
+      To request services or for business inquiries please email <a href="mailto:info@abdigitaldataservices.ca">info@abdigitaldataservices.ca</a>
       <v-spacer></v-spacer>
       Thank you for visiting!
     </v-card-text>

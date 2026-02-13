@@ -29,7 +29,7 @@
     <div class="text-2xl font-medium text-white">Get In Touch</div>
     <div class="mx-auto flex max-w-sm items-center gap-x-4 rounded-xl bg-green-900 p-6 shadow-lg outline outline-white/10 -outline-offset-1">
       <div class="ml-4 my-4">
-        <p class="text-gray-100">If any of our services are of interest to you, please drop us a line at <a href="mailto:andrew.smith@abdigitaldataservices.ca">andrew.smith@abdigitaldataservices.ca</a>. We are happy to help!</p>
+        <p class="text-gray-100">If any of our services are of interest to you, please drop us a line at <a href="mailto:info@abdigitaldataservices.ca">info@abdigitaldataservices.ca</a>. We are happy to help!</p>
       </div>
     </div>
   </div>

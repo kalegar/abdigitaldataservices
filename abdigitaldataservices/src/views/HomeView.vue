@@ -8,7 +8,7 @@
     <v-card-text>
       If you have computer problems that need solving, you've come to the right place!
       <v-spacer></v-spacer>
-      Please see our <a>About</a> page for information on our services.
+      Please see our <RouterLink to="/about">About</RouterLink> page for information on our services.
       <v-spacer></v-spacer>
       To request services or for business inquiries please email <a href="mailto:info@abdigitaldataservices.ca">info@abdigitaldataservices.ca</a>
       <v-spacer></v-spacer>

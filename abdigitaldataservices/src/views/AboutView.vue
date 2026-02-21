@@ -17,6 +17,8 @@
           <li>Contract Web Development</li>
           <li>Contract Software Development</li>
         </ul>
+        <br/>
+        <p>Note: We currently only provide on-site or remote assistance and do not have a physical store location.</p>
       </div>
     </div>
     <div class="text-2xl font-medium text-white">Our Rates</div>
